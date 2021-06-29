@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ..Java and trying to find away to remove some factory intstalled google apps
 - 💞️ I’m looking to collaborate on anything i can 
-- 📫 How to reach me .9(580) 919-6269 email jackdrennon30@gmail.com..
+- 📫 How to reach me (580) 919-6269 email jackdrennon30@gmail.com..
 
 <!---
 jackdrenn/jackdrenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
